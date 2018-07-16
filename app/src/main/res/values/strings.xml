@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DemoRecycleView</string>
+    <string name="hero">SUPERHERO</string>
+    <string name="batman">BATMAN</string>
+    <string name="spiderman">SPIDERMAN</string>
+    <string name="superman">SUPERMAN</string>
+    <string name="iceman">ICEMAN</string>
+    <string name="ironman">IRONMAN</string>
 </resources>
